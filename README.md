@@ -6,3 +6,4 @@ Ta repozitorij vsebuje projekt, v katerem analiziram smrtne žrtve skozi drugo s
 1. Pridobil bom podatke o smrtnih žrtvah prve in druge svetovne vojne.
 2. Analiziral nekatere podatke
    
+https://www.youtube.com/watch?v=7RQzD0eyxL8
